@@ -1,0 +1,15 @@
+{
+  "homepage": "https://minecraft.curseforge.com/projects/craftpresence/files",
+  "promos": {
+    "1.12.2-latest": "v1.3.5.0",
+    "1.12.2-recommended": "v1.3.5.0",
+    "1.11.2-latest": "v1.3.5.0",
+    "1.11.2-recommended": "v1.3.5.0",
+    "1.10.2-latest": "v1.3.5.0",
+    "1.10.2-recommended": "v1.3.5.0",
+    "1.9.4-latest": "v1.3.5.0",
+    "1.9.4-recommended": "v1.3.5.0",
+    "1.8.9-latest": "v1.3.5.0",
+    "1.8.9-recommended": "v1.3.5.0"
+  }
+}
